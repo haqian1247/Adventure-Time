@@ -1,0 +1,33 @@
+.button{
+    -fx-border-radius: 5;
+    -fx-border-width: .5;
+    -fx-background-color: aliceblue;
+    -fx-border-color: aqua;
+}
+.button:pressed{
+    -fx-background-color: lightblue;
+    -fx-border-color: blue;
+}
+#static-text{
+
+}
+#options{
+
+}
+#number{
+
+}
+#bottom-pane{
+    -fx-spacing: 70;
+    -fx-alignment: center;
+    -fx-padding: 5;
+}
+#top-buttons{
+    -fx-alignment: center;
+    -fx-spacing: 20;
+    -fx-padding: 5;
+}
+#HBox-options{
+    -fx-alignment: center;
+    -fx-spacing: 5;
+}
